@@ -1,0 +1,2 @@
+# Azure-Stream-Analytics-for-ATM-Transactions-Data-Project
+This project shows the use of Azure Stream Analytics to process real time data streams. The key parts are: Event Hub set up for data intake, generating Access Signature for secure data transmission, configuring a Job to process data, storing results in a Azure Blob Storage for future analysis and SQL querying to derive insights from the data stream
